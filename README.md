@@ -1,6 +1,4 @@
-# Machine learning  2020-2021 - UIB 
-
-This repository contains all the examples seen on class. 
+# Marc Mas Riera
 
 ## Install
 
